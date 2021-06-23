@@ -1,4 +1,6 @@
-# projectone
+# fear-networks-over-time
+
+![](github_img.png)
 
 ## Description
 This repo contains fMRI pre-processing pipeline that I used in a project that aimed to explore spatio-temporal patterns of neuronal communication during the acquisition of Pavlovian fear memory. 
